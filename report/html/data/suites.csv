@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"failed","scripts.E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_b","11655",""
+"passed","scripts.E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_search[xiaoming]","27285",""
+"passed","scripts.E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_search[hello1]","28821",""
+"passed","scripts.E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_a","12555",""

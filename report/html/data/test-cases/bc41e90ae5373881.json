@@ -1,0 +1,60 @@
+{
+  "uid" : "bc41e90ae5373881",
+  "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_a",
+  "fullName" : "scripts.E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_a",
+  "historyId" : "eb19d7f127d8fdea48dd725e8453064c",
+  "time" : {
+    "start" : 1560309669421,
+    "stop" : 1560309681976,
+    "duration" : 12555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-48QSFPD7"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "7500-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_a"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc41e90ae5373881.json",
+  "parameterValues" : [ ]
+}

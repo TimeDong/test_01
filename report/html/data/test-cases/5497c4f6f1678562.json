@@ -1,0 +1,66 @@
+{
+  "uid" : "5497c4f6f1678562",
+  "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_b",
+  "fullName" : "scripts.E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_b",
+  "historyId" : "bb1946886ff097aec4a5f57936493b17",
+  "time" : {
+    "start" : 1560309687115,
+    "stop" : 1560309698770,
+    "duration" : 11655
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_search.TestSearch object at 0x00000141E0957400>\n\n    @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)\n    def test_b(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_search.py:23: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-48QSFPD7"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "7500-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_b"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "5497c4f6f1678562.json",
+  "parameterValues" : [ ]
+}

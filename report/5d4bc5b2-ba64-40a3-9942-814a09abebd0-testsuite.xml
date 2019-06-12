@@ -1,0 +1,109 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560309602950" stop="1560309698770">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1560309602950" status="passed" stop="1560309631771">
+      <name>E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_search[hello1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7500-MainThread"/>
+        <label name="host" value="LAPTOP-48QSFPD7"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560309616890" status="passed" stop="1560309617679">
+          <name>点击搜索</name>
+          <title>点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560309617679" status="passed" stop="1560309628622">
+          <name>输入关键字</name>
+          <title>输入关键字</title>
+          <attachments>
+            <attachment source="e3d5e5df-d0ac-4b9e-831d-538dcc4cc7ca-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="eb3e0330-3118-4391-b5ce-e3fdd1acd20b-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560309631622" status="passed" stop="1560309631771">
+          <name>点击返回</name>
+          <title>点击返回</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1560309636837" status="passed" stop="1560309664122">
+      <name>E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_search[xiaoming]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7500-MainThread"/>
+        <label name="host" value="LAPTOP-48QSFPD7"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560309649781" status="passed" stop="1560309650350">
+          <name>点击搜索</name>
+          <title>点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560309650350" status="passed" stop="1560309660988">
+          <name>输入关键字</name>
+          <title>输入关键字</title>
+          <attachments>
+            <attachment source="1193e44e-b7bc-479a-a2e6-61d6fdfc81d7-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="f385c6ed-d57e-4cc2-b00d-7a80e600e736-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560309663989" status="passed" stop="1560309664122">
+          <name>点击返回</name>
+          <title>点击返回</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1560309669421" status="passed" stop="1560309681976">
+      <name>E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_a</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="7500-MainThread"/>
+        <label name="host" value="LAPTOP-48QSFPD7"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1560309687115" status="failed" stop="1560309698770">
+      <name>E:\4APP自动化\老师的代码\7-代码\03-allure和pytest结合使用-添加测试步骤\scripts.test_search.TestSearch.test_b</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_search.TestSearch object at 0x00000141E0957400&gt;
+
+    @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
+    def test_b(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_search.py:23: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="7500-MainThread"/>
+        <label name="host" value="LAPTOP-48QSFPD7"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

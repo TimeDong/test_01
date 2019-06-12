@@ -1,0 +1,127 @@
+{
+  "uid" : "a638f2a47040b8ce",
+  "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_search[xiaoming]",
+  "fullName" : "scripts.E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_search[xiaoming]",
+  "historyId" : "e0fc1381e195f2fdd4e0da011c2bb005",
+  "time" : {
+    "start" : 1560309636837,
+    "stop" : 1560309664122,
+    "duration" : 27285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击搜索",
+      "time" : {
+        "start" : 1560309649781,
+        "stop" : 1560309650350,
+        "duration" : 569
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入关键字",
+      "time" : {
+        "start" : 1560309650350,
+        "stop" : 1560309660988,
+        "duration" : 10638
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2518a9ab130a3350",
+        "name" : "描述",
+        "source" : "2518a9ab130a3350.txt",
+        "type" : "text/plain",
+        "size" : 39
+      }, {
+        "uid" : "264896cfc7c3435b",
+        "name" : "截图",
+        "source" : "264896cfc7c3435b.png",
+        "type" : "image/png",
+        "size" : 41045
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "点击返回",
+      "time" : {
+        "start" : 1560309663989,
+        "stop" : 1560309664122,
+        "duration" : 133
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-48QSFPD7"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7500-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_search[xiaoming]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a638f2a47040b8ce.json",
+  "parameterValues" : [ ]
+}

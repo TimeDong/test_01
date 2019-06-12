@@ -1,0 +1,41 @@
+[ {
+  "uid" : "a638f2a47040b8ce",
+  "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_search[xiaoming]",
+  "time" : {
+    "start" : 1560309636837,
+    "stop" : 1560309664122,
+    "duration" : 27285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5497c4f6f1678562",
+  "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_b",
+  "time" : {
+    "start" : 1560309687115,
+    "stop" : 1560309698770,
+    "duration" : 11655
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c03e3f4a7a791cc9",
+  "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_search[hello1]",
+  "time" : {
+    "start" : 1560309602950,
+    "stop" : 1560309631771,
+    "duration" : 28821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc41e90ae5373881",
+  "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_a",
+  "time" : {
+    "start" : 1560309669421,
+    "stop" : 1560309681976,
+    "duration" : 12555
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

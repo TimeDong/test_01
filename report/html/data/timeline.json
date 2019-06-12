@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-48QSFPD7",
+    "children" : [ {
+      "name" : "7500-MainThread",
+      "children" : [ {
+        "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_b",
+        "uid" : "5497c4f6f1678562",
+        "parentUid" : "a12522829eefc139a907cf291fc3e80d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1560309687115,
+          "stop" : 1560309698770,
+          "duration" : 11655
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_search[xiaoming]",
+        "uid" : "a638f2a47040b8ce",
+        "parentUid" : "a12522829eefc139a907cf291fc3e80d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560309636837,
+          "stop" : 1560309664122,
+          "duration" : 27285
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_search[hello1]",
+        "uid" : "c03e3f4a7a791cc9",
+        "parentUid" : "a12522829eefc139a907cf291fc3e80d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560309602950,
+          "stop" : 1560309631771,
+          "duration" : 28821
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\4APP自动化\\老师的代码\\7-代码\\03-allure和pytest结合使用-添加测试步骤\\scripts.test_search.TestSearch.test_a",
+        "uid" : "bc41e90ae5373881",
+        "parentUid" : "a12522829eefc139a907cf291fc3e80d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560309669421,
+          "stop" : 1560309681976,
+          "duration" : 12555
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a12522829eefc139a907cf291fc3e80d"
+    } ],
+    "uid" : "fd09e4da97789b72669f74acf2e305c7"
+  } ]
+}
